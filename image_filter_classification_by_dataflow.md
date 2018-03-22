@@ -86,7 +86,7 @@ Some well-known approaches to this problem space:
 
 My approaches to this problem space:
  
- * [My approach to resampling (resizing) without rotation](approach_resampling_without_rotation.md)
+ * [My approach to resampling (resizing) without rotation](./approach_resampling_without_rotation.md)
 
 ---
  

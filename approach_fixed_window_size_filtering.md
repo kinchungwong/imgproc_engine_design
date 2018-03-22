@@ -23,6 +23,8 @@
 
 ## Dynamically-sized memory pool for row buffers
 
+ * [Dynamically-sized memory pool for row buffers](./row_buffers.md)
+
 ---
 
 ## Design of the outermost loop
@@ -30,6 +32,8 @@
 ---
 
 ## Explicit SIMD programming
+
+ * [Explicit SIMD image filtering performance](./explicit_simd_image_filtering_performance.md)
 
 ---
 
